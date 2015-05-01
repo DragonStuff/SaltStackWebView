@@ -7,14 +7,14 @@ Requirements:
   * SaltStack Slave(s)
   * Web Server with PHP Support
 
-  Features:
+Features:
     * Current Time (Page automatically refreshes)
     * View Connected Nodes
     * View Node Stats
     * View Node IPs
 
 Setting SaltStackWebView up on your Saltstack Master
- -----------
+=======
 
  ### Cron
 
